@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?><com.dataLoader.dataclass.Furniture>
+  <furnitureList>
+    <com.dataLoader.dataclass.Category>
+      <colectionList/>
+      <productList>
+        <com.dataLoader.dataclass.Product>
+          <name>ŁAWA ACHILLES ŁAWY</name>
+          <categoryName>432</categoryName>
+          <cena>284.00</cena>
+          <opis>Wymiary: - wys. 43 cm   - szer. 68 cm - dł. 109 cm  Kolorystyka: - kasztan wenge - śliwa wallis                 </opis>
+          <img>http://sklep.maridex.pl/498-thickbox_default/lawa-achilles.jpg</img>
+          <imageUrlList>
+            <string>http://sklep.maridex.pl/498-thickbox_default/lawa-achilles.jpg</string>
+          </imageUrlList>
+          <imgFileNameList/>
+          <waga>0.0</waga>
+        </com.dataLoader.dataclass.Product>
+        <com.dataLoader.dataclass.Product>
+          <name>ŁAWA EDYP ŁAWY</name>
+          <categoryName>432</categoryName>
+          <cena>408.00</cena>
+          <opis>Wymiary: - wys. 46 cm   - szer. 68 cm - dł. 128 cm  Kolorystyka: - kasztan wenge - śliwa wallis           </opis>
+          <img>http://sklep.maridex.pl/297-thickbox_default/lawa-edyp.jpg</img>
+          <imageUrlList>
+            <string>http://sklep.maridex.pl/297-thickbox_default/lawa-edyp.jpg</string>
+          </imageUrlList>
+          <imgFileNameList/>
+          <waga>0.0</waga>
+        </com.dataLoader.dataclass.Product>
+        <com.dataLoader.dataclass.Product>
+          <name>ŁAWA JAZON ŁAWY</name>
+          <categoryName>432</categoryName>
+          <cena>459.00</cena>
+          <opis>Wymiary: - wys. 46 cm   - szer. 68 cm - dł. 128 cm  Kolorystyka: - kasztan wenge - śliwa wallis            </opis>
+          <img>http://sklep.maridex.pl/299-thickbox_default/lawa-jazon.jpg</img>
+          <imageUrlList>
+            <string>http://sklep.maridex.pl/299-thickbox_default/lawa-jazon.jpg</string>
+          </imageUrlList>
+          <imgFileNameList/>
+          <waga>0.0</waga>
+        </com.dataLoader.dataclass.Product>
+        <com.dataLoader.dataclass.Product>
+          <name>STOLIK KWADRAT ŁAWY</name>
+          <categoryName>432</categoryName>
+          <cena>218.00</cena>
+          <opis>Wymiary: - wys. 43 cm   - szer. 60 cm - dł. 60 cm  Kolorystyka: - kasztan wenge - śliwa wallis            </opis>
+          <img>http://sklep.maridex.pl/303-thickbox_default/stolik-kwadrat.jpg</img>
+          <imageUrlList>
+            <string>http://sklep.maridex.pl/303-thickbox_default/stolik-kwadrat.jpg</string>
+          </imageUrlList>
+          <imgFileNameList/>
+          <waga>0.0</waga>
+        </com.dataLoader.dataclass.Product>
+        <com.dataLoader.dataclass.Product>
+          <name>ŁAWA OWALNA ŁAWY</name>
+          <categoryName>432</categoryName>
+          <cena>138.00</cena>
+          <opis>Wymiary: - wys. 58 cm   - szer. 123 cm - dł. 60 cm  Kolorystyka: - buk - olcha - grusza - orzech jasny           </opis>
+          <img>http://sklep.maridex.pl/304-thickbox_default/lawa-owalna.jpg</img>
+          <imageUrlList>
+            <string>http://sklep.maridex.pl/304-thickbox_default/lawa-owalna.jpg</string>
+          </imageUrlList>
+          <imgFileNameList/>
+          <waga>0.0</waga>
+        </com.dataLoader.dataclass.Product>
+        <com.dataLoader.dataclass.Product>
+          <name>ŁAWA OWALNA LUX ŁAWY</name>
+          <categoryName>432</categoryName>
+          <cena>178.00</cena>
+          <opis>Wymiary: - wys. 58 cm   - szer. 123 cm - dł. 60 cm  Kolorystyka: - buk - olcha - grusza - orzech jasny           </opis>
+          <img>http://sklep.maridex.pl/305-thickbox_default/lawa-owalna-lux.jpg</img>
+          <imageUrlList>
+            <string>http://sklep.maridex.pl/305-thickbox_default/lawa-owalna-lux.jpg</string>
+          </imageUrlList>
+          <imgFileNameList/>
+          <waga>0.0</waga>
+        </com.dataLoader.dataclass.Product>
+        <com.dataLoader.dataclass.Product>
+          <name>STOLIK OKRĄGŁY ŁAWY</name>
+          <categoryName>432</categoryName>
+          <cena>84.00</cena>
+          <opis>Wymiary: - śred. 60 cm - wys. 64 cm   Kolorystyka: - buk - olcha - grusza - orzech jasny           </opis>
+          <img>http://sklep.maridex.pl/306-thickbox_default/stolik-okragly.jpg</img>
+          <imageUrlList>
+            <string>http://sklep.maridex.pl/306-thickbox_default/stolik-okragly.jpg</string>
+          </imageUrlList>
+          <imgFileNameList/>
+          <waga>0.0</waga>
+        </com.dataLoader.dataclass.Product>
+        <com.dataLoader.dataclass.Product>
+          <name>ŁAWA  FINEZJA</name>
+          <categoryName>432</categoryName>
+          <cena>234.00</cena>
+          <opis>Wymiary: - wys. 49 cm   - szer. 110 cm - gł. 60 cmKolorystyka:  - dąb sonoma - dąb sonoma czekolada    Meble z systemu Finezja cechuje wysoka jakość wykonania, proste formy brył oraz oryginalna kolorystyka, która przyczyni się do tego, że Wasze wnętrze będzie naprawdę wyjątkowe. Dzięki bogatej ofercie elementów będą mogli Państwo tworzyć rozmaite kompozycje pasujące niemal do każdego pomieszczenia. Meble wykonane z płyty laminowanej, krawędzie zabezpieczone obrzeżem ABS. Ozdobna listwa profilowa.            </opis>
+          <img>http://sklep.maridex.pl/52-thickbox_default/lawa-.jpg</img>
+          <imageUrlList>
+            <string>http://sklep.maridex.pl/52-thickbox_default/lawa-.jpg</string>
+          </imageUrlList>
+          <imgFileNameList/>
+          <waga>0.0</waga>
+        </com.dataLoader.dataclass.Product>
+        <com.dataLoader.dataclass.Product>
+          <name>ŁAWA  LIVING</name>
+          <categoryName>432</categoryName>
+          <cena>234.00</cena>
+          <opis>Wymiary: - wys. 48,5 cm   - szer. 108,5cm - gł. 68,5 cm  Kolorystyka: pinia avola     System Living sprawi, że Wasze wnętrze nabierze eleganckiego i niepowtarzalnego charakteru. Duży wpływ na to ma prosta forma mebli oraz ciekawa kolorystyka – połączenie jasnych blatów w dekorze pinia avola z białymi, połyskującymi frontami, pozwoli stworzyć modną aranżację pasującą do nowoczesnych wnętrz. Meble wykonane z płyty laminowanej, krawędzie zabezpieczone obrzeżem ABS.              </opis>
+          <img>http://sklep.maridex.pl/356-thickbox_default/lawa-.jpg</img>
+          <imageUrlList>
+            <string>http://sklep.maridex.pl/356-thickbox_default/lawa-.jpg</string>
+          </imageUrlList>
+          <imgFileNameList/>
+          <waga>0.0</waga>
+        </com.dataLoader.dataclass.Product>
+        <com.dataLoader.dataclass.Product>
+          <name>ŁAWA  KENDO</name>
+          <categoryName>432</categoryName>
+          <cena>264.00</cena>
+          <opis>Wymiary: - wys. 43 cm   - szer. 91 cm - gł. 91 cm  Kolorystyka: - kasztan wenge - śliwa wallis    Meble Kendo stanowią idealne rozwiązanie do nowoczesnych wnętrz. System składa się z dużych brył, wykonanych z płyty laminowanej. Ciekawa kolorystyka, będąca kontrastowym połączeniem ciemnych korpusów  z białymi frontami, stanowi nawiązanie do najnowszych trendów w projektowaniu wnętrz. Oświetlenie LED, zamontowane w witrynach oszklonych, wieczorami wprowadzi do wnętrza ciepły nastrój. Grubość korpusów wynosi 36 mm, frontów- 16 mm. Krawędzie mebli zabezpieczone obrzeżem ABS.              </opis>
+          <img>http://sklep.maridex.pl/383-thickbox_default/lawa-.jpg</img>
+          <imageUrlList>
+            <string>http://sklep.maridex.pl/383-thickbox_default/lawa-.jpg</string>
+          </imageUrlList>
+          <imgFileNameList/>
+          <waga>0.0</waga>
+        </com.dataLoader.dataclass.Product>
+        <com.dataLoader.dataclass.Product>
+          <name>ŁAWA  MAXIMUS</name>
+          <categoryName>432</categoryName>
+          <cena>228.00</cena>
+          <opis>Wymiary: - wys. 49 cm   - szer. 100 cm - gł. 60 cm  Kolorystyka: - śliwa wallis  - kasztan wenge    System Maximus to niezwykle efektowny i stylowy zestaw mebli, o bardzo solidnej konstrukcji, który w niepowtarzalny sposób wypełni Państwa wnętrze. Elementy z tego systemu, dzięki nowoczesnemu wzornictwu i kolorystyce frontów sprawią, iż Państwa mieszkanie stanie się naprawdę wyjątkowe. Meble wykonane z płyty laminowanej, krawędzie zabezpieczone obrzeżem ABS. Grubość korpusów- 22 mm, frontów- 16 mm.          </opis>
+          <img>http://sklep.maridex.pl/220-thickbox_default/lawa.jpg</img>
+          <imageUrlList>
+            <string>http://sklep.maridex.pl/220-thickbox_default/lawa.jpg</string>
+          </imageUrlList>
+          <imgFileNameList/>
+          <waga>0.0</waga>
+        </com.dataLoader.dataclass.Product>
+        <com.dataLoader.dataclass.Product>
+          <name>ŁAWA Z SZUFLADAMI  MAXIMUS</name>
+          <categoryName>432</categoryName>
+          <cena>275.00</cena>
+          <opis>Wymiary: - wys. 49 cm   - szer. 110 cm - gł. 60 cm  Kolorystyka: - korpus: śliwa wallis / front: śliwa wallis  - korpus: kasztan wenge / front: kasztan wenge  - korpus: śliwa wallis / front: laredo  - korpus: kasztan wenge / front: laredo    System Maximus to niezwykle efektowny i stylowy zestaw mebli, o bardzo solidnej konstrukcji, który w niepowtarzalny sposób wypełni Państwa wnętrze. Elementy z tego systemu, dzięki nowoczesnemu wzornictwu i kolorystyce frontów sprawią, iż Państwa mieszkanie stanie się naprawdę wyjątkowe. Meble wykonane z płyty laminowanej, krawędzie zabezpieczone obrzeżem ABS. Grubość korpusów- 22 mm, frontów- 16 mm.             </opis>
+          <img>http://sklep.maridex.pl/243-thickbox_default/lawa-z-szufladami.jpg</img>
+          <imageUrlList>
+            <string>http://sklep.maridex.pl/243-thickbox_default/lawa-z-szufladami.jpg</string>
+          </imageUrlList>
+          <imgFileNameList/>
+          <waga>0.0</waga>
+        </com.dataLoader.dataclass.Product>
+      </productList>
+    </com.dataLoader.dataclass.Category>
+  </furnitureList>
+</com.dataLoader.dataclass.Furniture>
